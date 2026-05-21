@@ -1,6 +1,6 @@
 # Lezzet Defteri
 
-Lezzet Defteri, en sevdiğiniz yemek tariflerini listeleyebileceğiniz, favorilerinize ekleyebileceğiniz, yeni tarifler oluşturabileceğiniz ve QR kod tarayıcı ile hızlıca tariflere veya dış bağlantılara erişebileceğiniz modern bir React Native (Expo) mobil uygulamasıdır.
+Lezzet Defteri, en sevdiğiniz yemek tariflerini listeleyebileceğiniz, favorilerinize ekleyebileceğiniz, yeni tarifler oluşturabileceğiniz ve QR kod tarayıcı ile hızlıca tariflere veya dış bağlantılara erişebileceğiniz modern bir React Native  mobil uygulamasıdır.
 
 ## Özellikler
 
